@@ -1,0 +1,1 @@
+{!! Html::script('crmjs/crm-payment.js?ver='.env('FILE_VERSION')) !!}

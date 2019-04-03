@@ -1,0 +1,1 @@
+{!! Html::script('crmjs/crm-contact.js?ver='.env('FILE_VERSION')) !!}
